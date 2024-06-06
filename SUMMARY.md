@@ -9,3 +9,4 @@
 * [RAG](rag.md)
 * [OpenAI](openai.md)
 * [Vue](vue.md)
+* [HGNN](hgnn.md)
