@@ -11,4 +11,4 @@
 * [Vue](vue.md)
 * [HGNN](hgnn.md)
 * [Page 1](page-1.md)
-* [Alogrithm](alogrithm.md)
+* [📒 Alogrithm-算法基础](alogrithm-suan-fa-ji-chu.md)
