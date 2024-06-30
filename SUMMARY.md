@@ -10,3 +10,5 @@
 * [OpenAI](openai.md)
 * [Vue](vue.md)
 * [HGNN](hgnn.md)
+* [Page 1](page-1.md)
+* [Alogrithm](alogrithm.md)
